@@ -3,7 +3,7 @@ Library    RequestsLibrary
 Library    OperatingSystem
 
 *** Variables ***
-${BASE_URL}    http://192.168.1.15:5000
+${BASE_URL}    http://192.168.1.16:5000
 
 *** Test Cases ***
 Test Plus Operation With 5 and 6
